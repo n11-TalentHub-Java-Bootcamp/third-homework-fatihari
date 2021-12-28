@@ -9,6 +9,13 @@
 > MongoDb connection information has been added as "application.properties" file under the name of "resource" folder.
 >
 
+
+
+<br>
+IMPORTANT NOTE: 
+> The id variable is defined as "_id" by default in mongoDb. Also, the default id variable type is defined as "String _id" since Object or String is recommended. 
+
+
 # Task-1
 ![image](https://user-images.githubusercontent.com/57245919/147597105-237109ef-15be-4308-acb9-fa164cf879a5.png)
 
